@@ -1,0 +1,28 @@
+#texto1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#texto2 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#texto3 {
+    position: absolute;
+    top: 0;
+    left: 55cap;
+    height: auto;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#texto4 {
+    position: absolute;
+    bottom: 100px;
+    left: 1000px;
+    left: 60cap;
+    height: auto;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
